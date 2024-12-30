@@ -70,6 +70,7 @@
     "npm": "^10.9.1",
     "openssl": "^2.0.0",
     "react": "19.0.0-rc-02c0e824-20241028",
+    "react-countup": "^6.5.3",
     "react-day-picker": "^8.10.1",
     "react-dom": "19.0.0-rc-02c0e824-20241028",
     "react-hook-form": "^7.53.1",
